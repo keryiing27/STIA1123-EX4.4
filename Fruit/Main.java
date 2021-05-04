@@ -30,7 +30,6 @@ public class Main {
 		
 		System.out.println("======GRAPE======");
 		Grape G = new Grape("Grape", 13.9, 1.1, "Vitamin C and Vitamin K", 0.31);
-		//G.printInfo();
 		System.out.println("------------------------------------------------");
 		System.out.println();
 		
